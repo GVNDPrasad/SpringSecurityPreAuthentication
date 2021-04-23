@@ -14,7 +14,7 @@ public class SpringSecurityInAuthApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurityInAuthApplication.class, args);
-		log.info("SpringSecurityInAuthApplication :: main()");
+		log.info("SpringSecurityPre-AuthApplication :: main()");
 		
 		System.out.println("Remember the credentials Username: user and Password: generate in console");
 	}
